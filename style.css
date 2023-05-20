@@ -1,0 +1,108 @@
+body {
+    font-family: ;
+    background-color: rgb(107 153 148);
+}
+
+.vertical{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    float: left;
+}
+
+.gg{
+    position: absolute;
+    right: 0px;
+ width: 100px  ;
+ height: 80px;
+ top:0;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+     text-align: center;
+}
+
+.about_me{
+    float: left;
+}
+
+.works{
+    position: absolute;
+    top: 400px;
+    left:41%;
+
+}
+p{
+    margin: 20px;
+}
+footer{
+    position: absolute;
+   top: 900px;
+}
+
+.r{
+    width: 300px;
+    position: relative;
+    left:220px;
+}
+
+.e {
+    width: 300px;
+    position: relative;
+    bottom: 220px;
+    right: 190px;
+}
+
+.s{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 100px;
+    right: 5px;
+}
+
+.s:hover{
+       transform: translateX(-100px)
+}
+
+.m{
+       position: absolute;
+    bottom: 100px;
+    right: 5px;
+    width: 150px;
+    height: 150px;
+    opacity: 0;
+}
+
+{
+    opacity: 1;
+}
+
+.z{
+    height: 1px;
+}
+
+.button{
+    border: 2px solid aquamarine;
+    border-radius: 10px;
+    color: black;
+    background-color: aquamarine;
+    text-decoration: 0;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+
+.buttonn{
+    border: 2px solid aquamarine;
+    border-radius: 10px;
+    color: black;
+    background-color: aquamarine;
+    text-decoration: 0;
+    position: absolute;
+    top: 20px;
+    left: 135px;
+}
